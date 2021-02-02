@@ -1,7 +1,7 @@
 appdirs==1.4.3
 attrs==19.1.0
 beautifulsoup4==4.9.1
-bleach==3.1.5
+bleach==3.3.0
 blis==0.4.1
 boto3==1.12.32
 botocore==1.15.49
